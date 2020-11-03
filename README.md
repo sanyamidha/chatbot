@@ -35,6 +35,8 @@ If you try out the chatbot again you should see a welcome response from the chat
 
 > Hello. My name is Floral and I am a chatbot. How can I help you?
 
+
+
  _____ _                 _     __   __            
 |_   _| |               | |    \ \ / /            
   | | | |__   __ _ _ __ | | __  \ V /___  _   _   
@@ -59,6 +61,11 @@ ______      _               _   _               _
 \____/ \___|_|_| |_|\__, | \_| |_/\___|_|  \___(_)
                      __/ |                        
                     |___/                         
+
+
+
+
+
                     
                     
                     
