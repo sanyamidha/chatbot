@@ -35,20 +35,7 @@ If you try out the chatbot again you should see a welcome response from the chat
 
 Hello. My name is Floral and I am a chatbot. How can I help you?
 
-
-
- _____ _                 _     __   __            
-|_   _| |               | |    \ \ / /            
-  | | | |__   __ _ _ __ | | __  \ V /___  _   _   
-  | | | '_ \ / _` | '_ \| |/ /   \ // _ \| | | |  
-  | | | | | | (_| | | | |   <    | | (_) | |_| |  
-  \_/ |_| |_|\__,_|_| |_|_|\_\   \_/\___/ \__,_|  
-        
-
-
-
-                    
-                    
+ # Thank You                    
                     
 
 
