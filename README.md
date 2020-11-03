@@ -1,6 +1,6 @@
 # chatbot
 A chatbot named floral is made using IBM WATSON for a flower Shopping App
-CREATING WATSON CHATBOT
+# CREATING WATSON CHATBOT
 Register with Watson Assistant by clicking on this link.
 
 1.Verify your account by clicking the confirmation email you receive by email (be sure to check your spam folder, if you don't see the email).
@@ -11,7 +11,7 @@ Register with Watson Assistant by clicking on this link.
 
 4.Click on the workspace to create any workspace or click on the existing one, and explore the example chatbot. What intents and entities are there? If you are adventurous you can even take a look at the dialog section. Play around with the default example in Watson Assistant and when you feel like you have become more familiar with it, go back to the workspaces list by clicking on the table icon in the left side of the page.
 
-CREATE INTENT
+# CREATE INTENT
 On the Intent page click on Add Intent and a form appears, name your intent greetings and add in description like greet the user and in the Add user examples add the examples of greetings.
 
 You can add as many intents you like based on many ways a user might greet our bot. Once added intents you might see that Try it out says Watson is training
@@ -20,7 +20,7 @@ That meas our Watson assistant is training and once that message goes we can tes
 
 Once message is entered our chatbot should identify the intent of the message and display it under the message
 
-IMPORTING ENTITIES
+# IMPORTING ENTITIES
 
 We can actually create a csv file which then can be imported to our watson assistant. In Entities section hover on the first arrow just after the Entities button, it should say something for import
 
@@ -28,12 +28,12 @@ Click on the import button and you will find the format of csv file for importin
 
 Entities will be imported and watson will be trained with them. Don't forget to check chatbot after training each time.
 
-CREATING DIALOGS
+# CREATING DIALOGS
 In the dialogs section of our chatbot tool you should see that two dialogs welcome and anything_else nodes are already there for us with default values
 
 If you try out the chatbot again you should see a welcome response from the chatbot. We will make this response more relating to our florence shop so click on the welcome node and in the Then respond with: section enter your preferred text for welcoming, the text should be very limited to the scope of our chatbot and should not include all the features that our chatbot supports, a nice welcome message would be
 
-Hello. My name is Floral and I am a chatbot. How can I help you? 
+> Hello. My name is Floral and I am a chatbot. How can I help you? 
 
 
 THANK YOU 
