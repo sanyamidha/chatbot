@@ -33,7 +33,7 @@ In the dialogs section of our chatbot tool you should see that two dialogs welco
 
 If you try out the chatbot again you should see a welcome response from the chatbot. We will make this response more relating to our florence shop so click on the welcome node and in the Then respond with: section enter your preferred text for welcoming, the text should be very limited to the scope of our chatbot and should not include all the features that our chatbot supports, a nice welcome message would be
 
-> Hello. My name is Floral and I am a chatbot. How can I help you?
+Hello. My name is Floral and I am a chatbot. How can I help you?
 
 
 
